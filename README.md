@@ -74,7 +74,7 @@ First C#.Net Trip-Sorter on GitHub
 
 8- Full diagram
 ![Full Diagram](full-diagram.png)
-you can see also ClassDiagramTripSorterAssembly.cd file with good quailty
+you can see also [ClassDiagramTripSorterAssembly.cd](https://github.com/MostafaMonib/TripSorter/blob/master/TripSorter/ClassDiagramTripSorterAssembly.cd) file with good quailty
 
 
 
