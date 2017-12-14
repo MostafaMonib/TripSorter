@@ -2,7 +2,6 @@
 
 First C#.Net Trip-Sorter on GitHub
 
-![Task file](Dev test.pdf)
 ## Features
 Soultion with 4 projects:
 * .Net Assembly dll
