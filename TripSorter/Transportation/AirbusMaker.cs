@@ -4,6 +4,8 @@ namespace JourneySorterAssembly.Transportation
 {
 
     /// <summary>
+    /// AirbusMaker.cs class file that inherts from Maker.cs base class
+    /// 
     /// Developed By : mostafa.monib@gmail.com mostafa monib
     /// </summary>
     /// <seealso cref="JourneySorterAssembly.Transportation.Maker" />

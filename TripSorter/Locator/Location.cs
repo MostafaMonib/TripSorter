@@ -3,9 +3,10 @@ using System.Collections.Generic;
 
 namespace JourneySorterAssembly.Locator
 {
+    //Developed By : mostafa.monib@gmail.com mostafa monib
 
     /// <summary>
-    /// Developed By : mostafa.monib@gmail.com mostafa monib
+    /// This class represents a geographical location corresponding to a locality
     /// </summary>
     public class Location
     {

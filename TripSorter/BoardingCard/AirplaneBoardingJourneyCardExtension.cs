@@ -9,8 +9,6 @@ namespace JourneySorterAssembly.JourneyHelper
 
     /// <summary>
     /// 
-    /// Developed By : mostafa.monib@gmail.com
-    /// 
     /// </summary>
     /// <seealso cref="JourneySorterAssembly.JourneyHelper.IBoardingJourneyCardExtension" />
     public class AirplaneBoardingJourneyCardExtension : IBoardingJourneyCardExtension

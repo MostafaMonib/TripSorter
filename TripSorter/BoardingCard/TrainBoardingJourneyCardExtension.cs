@@ -1,8 +1,8 @@
 namespace JourneySorterAssembly.JourneyHelper
 {
-
+    //Developed By : mostafa.monib@gmail.com mostafa monib
     /// <summary>
-    /// Developed By : mostafa.monib@gmail.com mostafa monib
+    /// 
     /// </summary>
     /// <seealso cref="JourneySorterAssembly.JourneyHelper.IBoardingJourneyCardExtension" />
     public class TrainBoardingJourneyCardExtension : IBoardingJourneyCardExtension

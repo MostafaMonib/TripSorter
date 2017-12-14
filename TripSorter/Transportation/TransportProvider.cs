@@ -4,9 +4,10 @@ using System.Text;
 
 namespace JourneySorterAssembly.Transportation
 {
+    //Developed By : mostafa.monib@gmail.com mostafa monib
 
     /// <summary>
-    /// Developed By : mostafa.monib@gmail.com mostafa monib
+    /// 
     /// </summary>
     public abstract class TransportProvider
     {

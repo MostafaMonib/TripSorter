@@ -6,7 +6,7 @@ namespace JourneySorterAssembly.JourneyHelper
 {
 
     /// <summary>
-    /// Developed By : mostafa.monib@gmail.com mostafa monib
+    /// 
     /// </summary>
     /// <seealso cref="JourneySorterAssembly.JourneyHelper.BoardingJourneyCard" />
     public class TrainBoardingJourneyCard : BoardingJourneyCard

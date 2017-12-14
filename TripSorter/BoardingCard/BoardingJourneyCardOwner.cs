@@ -6,8 +6,6 @@ namespace JourneySorterAssembly.JourneyHelper
     /// <summary>
     /// Represents the owner and owner of a boarding pass
     /// 
-    /// Developed By : mostafa.monib@gmail.com
-    /// 
     /// </summary>
     public class BoardingJourneyCardOwner
     {

@@ -4,6 +4,8 @@ namespace JourneySorterAssembly.Transportation
 {
 
     /// <summary>
+    /// Class representing the bus-type vehicle or means of transport
+    /// 
     /// Developed By : mostafa.monib@gmail.com mostafa monib
     /// </summary>
     /// <seealso cref="JourneySorterAssembly.Transportation.Transport" />

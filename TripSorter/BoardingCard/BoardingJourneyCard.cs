@@ -6,8 +6,6 @@ using System;
 /// 
 /// BoardingJourneyCard.cs
 /// 
-/// Developed By : mostafa.monib@gmail.com
-/// 
 /// Class that represents a generic boarding pass for any type of transport.
 /// This class contains attributes and example methods that could be considered
 /// common to any boarding card of any type of transport. Dice

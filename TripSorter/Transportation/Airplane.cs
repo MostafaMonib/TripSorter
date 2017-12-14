@@ -3,6 +3,8 @@ using System;
 namespace JourneySorterAssembly.Transportation
 {
     /// <summary>
+    /// Class representing the aircraft type of vehicle or means of transport
+    /// 
     /// Developed By : mostafa.monib@gmail.com mostafa monib
     /// </summary>
     /// <seealso cref="JourneySorterAssembly.Transportation.Transport" />
