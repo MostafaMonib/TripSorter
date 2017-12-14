@@ -36,8 +36,8 @@ First C#.Net Trip-Sorter on GitHub
 ```csharp
 1- Dawnload Git-solution files
 2- Extract the zip file
-3- open on VS 2017
-4- Run from Debug>>Start Debugging f=F5
+3- open 'Executable File' folder
+4- Run TripSorterTest.exe console application
 ```
 
 ### Open the souce code:
