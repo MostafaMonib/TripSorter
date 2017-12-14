@@ -34,9 +34,9 @@ First C#.Net Trip-Sorter on GitHub
 ### Installation:
 
 ```csharp
-1- Dawnload Git-solution files
-2- Extract the zip file
-3- open 'Executable File' folder
+1- Dawnload Git-repository files
+2- Extract the repository zip file
+3- Extract and open 'Executable File' zip folder
 4- Run TripSorterTest.exe console application
 ```
 
