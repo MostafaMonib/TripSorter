@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
   <Class Name="JourneySorterAssembly.JourneyHelper.AirplaneBoardingJourneyCard" Collapsed="true">
-    <Position X="1.5" Y="1.75" Width="1.5" />
+    <Position X="0.5" Y="1.75" Width="2.25" />
     <TypeIdentifier>
       <HashCode>gAAACAAAAggAAAAAAAAAAAAAAAAAAAAIIiAgAAAAACA=</HashCode>
       <FileName>BoardingCard\AirplaneBoardingJourneyCard.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.AirplaneBoardingJourneyCardExtension" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="15.75" Y="2.75" Width="1.5" />
+    <Position X="16.5" Y="2.75" Width="3" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>BoardingCard\AirplaneBoardingJourneyCardExtension.cs</FileName>
@@ -16,28 +16,28 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.BoardingJourneyCard" Collapsed="true">
-    <Position X="3.25" Y="3.75" Width="1.5" />
+    <Position X="3.25" Y="3.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AgQEAEAAIAACoARCggBAAAAIAAAGCEAAAAAgDATAQkw=</HashCode>
       <FileName>BoardingCard\BoardingJourneyCard.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.BoardingJourneyCardOwner" Collapsed="true">
-    <Position X="13.75" Y="1.75" Width="1.5" />
+    <Position X="13.75" Y="1.75" Width="2.25" />
     <TypeIdentifier>
       <HashCode>QAAAAAAAAABAQAAAAAAEAAAAAAAEAAAAAAAARAAABAA=</HashCode>
       <FileName>BoardingCard\BoardingJourneyCardOwner.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.BusBoardingJourneyCard" Collapsed="true">
-    <Position X="3.25" Y="1.75" Width="1.5" />
+    <Position X="3.25" Y="1.75" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
       <FileName>BoardingCard\BusBoardingCard.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.BusBoardingJourneyCardExtension" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="17.5" Y="1.5" Width="1.5" />
+    <Position X="19.75" Y="1.5" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>BoardingCard\BusBoardingJourneyCardExtension.cs</FileName>
@@ -52,7 +52,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.TechniqueNoStartNoEnd" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="15.75" Y="1.5" Width="1.5" />
+    <Position X="17" Y="1.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAgAgAACAAAAAAAAAACIAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
       <FileName>BoardingCard\TechniqueNoStartNoEnd.cs</FileName>
@@ -60,14 +60,14 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.TrainBoardingJourneyCard" Collapsed="true">
-    <Position X="5" Y="1.75" Width="1.5" />
+    <Position X="5.5" Y="1.75" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
       <FileName>BoardingCard\TrainBoardingJourneyCard.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.JourneyHelper.TrainBoardingJourneyCardExtension" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="17.5" Y="2.75" Width="1.5" />
+    <Position X="19.75" Y="2.75" Width="2.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>BoardingCard\TrainBoardingJourneyCardExtension.cs</FileName>
@@ -96,7 +96,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.Transportation.AirplaneProvider" Collapsed="true">
-    <Position X="8" Y="2" Width="1.5" />
+    <Position X="10.25" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Transportation\AirplaneProvider.cs</FileName>
@@ -110,7 +110,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.Transportation.BusProvider" Collapsed="true">
-    <Position X="6.75" Y="3.25" Width="1.5" />
+    <Position X="9" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Transportation\BusProvider.cs</FileName>
@@ -131,7 +131,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.Transportation.TrainProvider" Collapsed="true">
-    <Position X="9.5" Y="3.25" Width="1.5" />
+    <Position X="11.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Transportation\TrainProvider.cs</FileName>
@@ -145,7 +145,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="JourneySorterAssembly.Transportation.TransportProvider" Collapsed="true">
-    <Position X="8" Y="0.5" Width="1.5" />
+    <Position X="10.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AgAAAABACAAAAAAAAABEAEQAAEAEAAQABAAgAAAAAAA=</HashCode>
       <FileName>Transportation\TransportProvider.cs</FileName>
@@ -159,7 +159,7 @@
     </TypeIdentifier>
   </Class>
   <Interface Name="JourneySorterAssembly.JourneyHelper.IBoardingJourneyCardExtension" Collapsed="true">
-    <Position X="16" Y="4.5" Width="1.5" />
+    <Position X="17" Y="4.5" Width="2.5" />
     <Compartments>
       <Compartment Name="Methods" Collapsed="true" />
     </Compartments>
@@ -169,7 +169,7 @@
     </TypeIdentifier>
   </Interface>
   <Interface Name="JourneySorterAssembly.JourneyHelper.IJourneySorterTechnique" Collapsed="true">
-    <Position X="18" Y="4.5" Width="1.5" />
+    <Position X="19.75" Y="4.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>BoardingCard\IJourneySorterTechnique.cs</FileName>
