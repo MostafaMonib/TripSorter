@@ -2,8 +2,9 @@
 
 First C#.Net Trip-Sorter on GitHub
 
+![Task file](Dev test.pdf)
 ## Features
-
+Soultion with 4 projects:
 * .Net Assembly dll
 * Test Console Application
 * Web-API Azure Mobile Service
@@ -35,9 +36,8 @@ First C#.Net Trip-Sorter on GitHub
 
 ```csharp
 1- Dawnload Git-repository files
-2- Extract the repository zip file
-3- Extract and open 'Executable File' zip folder
-4- Run TripSorterTest.exe console application
+2- open 'Executable File' zip folder
+3- Run TripSorterTest.exe console application
 ```
 
 ### Open the souce code:
@@ -46,7 +46,7 @@ First C#.Net Trip-Sorter on GitHub
 1- Dawnload Git-solution files
 2- Extract the zip file
 3- open on VS 2017
-4- Run from Debug>>Start Debugging f=F5
+4- Run from Debug>>Start Debugging F5 or Start Without Debugging Ctrl+F5
 ```
 
 ### Class Diagram & Desgin Pattern
