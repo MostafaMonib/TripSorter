@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="age field" Url="html/5e98925f-7650-1bc4-97b2-beb6de999cd8.htm" />
+  <HelpKINode Title="AirbusMaker class">
+    <HelpKINode Title="AirbusMaker Class" Url="html/91d6022e-f157-babb-6990-452e94701152.htm" />
+    <HelpKINode Title="about AirbusMaker class" Url="html/91d6022e-f157-babb-6990-452e94701152.htm" />
+    <HelpKINode Title="constructor" Url="html/2635c819-d79b-1262-4dfd-af48c2ffe0e1.htm" />
+    <HelpKINode Title="fields" Url="html/80fd0e93-5202-bb56-5f5e-ece06341d637.htm" />
+    <HelpKINode Title="methods" Url="html/d52cff34-20bd-1c9f-55a9-5c670703145a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AirbusMaker.AirbusMaker constructor" Url="html/2635c819-d79b-1262-4dfd-af48c2ffe0e1.htm" />
+  <HelpKINode Title="AirbusMaker.GetVehiclesByYear method" Url="html/8aa5bf73-a26d-a632-f088-8696ddac40c8.htm" />
+  <HelpKINode Title="Airplane class">
+    <HelpKINode Title="Airplane Class" Url="html/3b3dad3a-5f86-867e-1fe0-68a37c9b60af.htm" />
+    <HelpKINode Title="about Airplane class" Url="html/3b3dad3a-5f86-867e-1fe0-68a37c9b60af.htm" />
+    <HelpKINode Title="constructor" Url="html/249c1218-3e65-1959-6f31-42bee55ee4b7.htm" />
+    <HelpKINode Title="fields" Url="html/e49a73a5-7e9f-cb33-d4f8-1df1b6221519.htm" />
+    <HelpKINode Title="methods" Url="html/425d4baf-eca9-58e0-f521-867d9971b481.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Airplane.Airplane constructor" Url="html/249c1218-3e65-1959-6f31-42bee55ee4b7.htm" />
+  <HelpKINode Title="Airplane.DateOffRoad method" Url="html/7b4fd61d-a0ac-c94b-a263-a99d600c4d78.htm" />
+  <HelpKINode Title="Airplane.GetTypeVehicle method" Url="html/c10079ed-b9b3-ca1f-767d-6abc8dc96cb0.htm" />
+  <HelpKINode Title="Airplane.IsOutOfOrder method" Url="html/ae067f81-cdeb-5fea-7ea8-79da429f3d87.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard class">
+    <HelpKINode Title="AirplaneBoardingJourneyCard Class" Url="html/10b81fb5-c204-1090-1c83-1055a2e356fd.htm" />
+    <HelpKINode Title="about AirplaneBoardingJourneyCard class" Url="html/10b81fb5-c204-1090-1c83-1055a2e356fd.htm" />
+    <HelpKINode Title="constructor" Url="html/a4ed6145-8c09-d133-3201-24410b6d316c.htm" />
+    <HelpKINode Title="fields" Url="html/5d3be86b-e731-3617-677c-a53dc925db87.htm" />
+    <HelpKINode Title="methods" Url="html/8e1ff101-5755-9a11-a87e-88df7999c343.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AirplaneBoardingJourneyCard.AirplaneBoardingJourneyCard constructor" Url="html/a4ed6145-8c09-d133-3201-24410b6d316c.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.baggaGeticketCounter field" Url="html/3f5f3634-4929-05bf-729b-91697125e23f.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.flightNumber field" Url="html/666f3e60-8b9f-567d-c5b0-8af0947bcd1e.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.gate field" Url="html/566007c0-23a0-287e-0666-24f76fc70172.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.GetBaggaGeticketCounter method" Url="html/c17ac165-6210-2ed5-8094-b761ea63e40e.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.GetFlightNumber method" Url="html/ffa0a595-0c1a-593e-9f8a-b65c00850bbf.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.GetGate method" Url="html/886aa4b0-35ff-6348-6c5f-7389b6bf9630.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.GetMoreInformation method" Url="html/09bbf79b-3814-38f8-77c8-71da61015c47.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.SetBaggageTicketCounter method" Url="html/8e087a47-7d33-78bc-5ca7-4874c42e913b.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.SetFlightNumber method" Url="html/781f7006-ab12-8af5-0570-b96f49018e27.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCard.SetGate method" Url="html/99c624a5-c7ff-1228-4ca8-6e2358f73738.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCardExtension class">
+    <HelpKINode Title="AirplaneBoardingJourneyCardExtension Class" Url="html/2b7ea59e-d91a-f015-a19e-a6b526e3a945.htm" />
+    <HelpKINode Title="about AirplaneBoardingJourneyCardExtension class" Url="html/2b7ea59e-d91a-f015-a19e-a6b526e3a945.htm" />
+    <HelpKINode Title="constructor" Url="html/672a2b57-89dc-dbb7-662d-af4964ead4bf.htm" />
+    <HelpKINode Title="methods" Url="html/6f832e81-1666-e307-16aa-ee0130da24b1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AirplaneBoardingJourneyCardExtension.AirplaneBoardingJourneyCardExtension constructor" Url="html/672a2b57-89dc-dbb7-662d-af4964ead4bf.htm" />
+  <HelpKINode Title="AirplaneBoardingJourneyCardExtension.CreateBoardingJourneyCard method" Url="html/f6822a11-ba16-2ab0-b99a-4eec5a091a7b.htm" />
+  <HelpKINode Title="AirplaneProvider class">
+    <HelpKINode Title="AirplaneProvider Class" Url="html/3c8dbb6f-2796-9080-7a95-9b3152b46271.htm" />
+    <HelpKINode Title="about AirplaneProvider class" Url="html/3c8dbb6f-2796-9080-7a95-9b3152b46271.htm" />
+    <HelpKINode Title="constructor" Url="html/25ddb0cc-d4be-6704-7fb9-754290cf8a6d.htm" />
+    <HelpKINode Title="fields" Url="html/16423480-7a11-1251-cbd4-ad78a0fcf206.htm" />
+    <HelpKINode Title="methods" Url="html/2235ef5d-0723-8654-800b-09d3532f9db9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AirplaneProvider.AirplaneProvider constructor" Url="html/25ddb0cc-d4be-6704-7fb9-754290cf8a6d.htm" />
+  <HelpKINode Title="arrivalDate field" Url="html/7d1fa318-b05b-1108-bc5a-9b8e5d5b78ef.htm" />
+  <HelpKINode Title="baggaGeticketCounter field" Url="html/3f5f3634-4929-05bf-729b-91697125e23f.htm" />
+  <HelpKINode Title="BoardingJourneyCard class">
+    <HelpKINode Title="BoardingJourneyCard Class" Url="html/e9431a76-40f2-ab8a-0e25-9b66b9f12079.htm" />
+    <HelpKINode Title="about BoardingJourneyCard class" Url="html/e9431a76-40f2-ab8a-0e25-9b66b9f12079.htm" />
+    <HelpKINode Title="constructor" Url="html/7c6e6ef8-5afd-4388-2d80-3d70faacef08.htm" />
+    <HelpKINode Title="fields" Url="html/4f5cf48b-7570-65ef-66d2-0450221f728d.htm" />
+    <HelpKINode Title="methods" Url="html/768aae75-0aed-f7ff-05d1-e6a7b4bce623.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BoardingJourneyCard.arrivalDate field" Url="html/7d1fa318-b05b-1108-bc5a-9b8e5d5b78ef.htm" />
+  <HelpKINode Title="BoardingJourneyCard.BoardingJourneyCard constructor" Url="html/7c6e6ef8-5afd-4388-2d80-3d70faacef08.htm" />
+  <HelpKINode Title="BoardingJourneyCard.denied field" Url="html/6623d919-1ed7-f38b-e8d9-3ec0e364ab1d.htm" />
+  <HelpKINode Title="BoardingJourneyCard.departure field" Url="html/a3216a9e-4005-b5bc-b14f-6333b96e57be.htm" />
+  <HelpKINode Title="BoardingJourneyCard.departureDate field" Url="html/b4442b7b-5de4-52af-268c-5994c0e95de8.htm" />
+  <HelpKINode Title="BoardingJourneyCard.destination field" Url="html/6de89199-f8f4-a2d6-a920-bee123904db9.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetArrivalDate method" Url="html/a0487285-cca8-b283-eb86-afdfbdcabd6b.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetClient method" Url="html/cab0a038-f104-a552-e7eb-6d391ee0ec1b.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetDenied method" Url="html/c7a6c271-06da-bf8d-b54c-68a801168fc5.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetDeparture method" Url="html/1974684d-80f2-fc7c-8f77-e27f25c6b6a7.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetDepartureDate method" Url="html/403901b8-68b9-d260-ad1f-0c1fdc78c416.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetDestination method" Url="html/2632cf7d-d6a8-e048-99bd-fad5db4bc962.htm" />
+  <HelpKINode Title="BoardingJourneyCard.Getid method" Url="html/2afa753c-0c47-5602-c587-c5be2fe46c28.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetMoreInformation method" Url="html/59d177e9-5238-ae00-3bf4-d4ad0aa63a27.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetSeat method" Url="html/ebf63732-e688-127b-d744-5febe2cc9b52.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetTransport method" Url="html/20e817e3-ec72-46f6-a6e0-698c66dc983d.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetTransportCompany method" Url="html/00db5532-698c-4ddb-ca73-bb9ae6f9ca89.htm" />
+  <HelpKINode Title="BoardingJourneyCard.GetValid method" Url="html/31734be3-de1a-6a4c-5c1c-a883afb476fa.htm" />
+  <HelpKINode Title="BoardingJourneyCard.id field" Url="html/c35b5c6f-8abc-5d7e-b119-0aab8fc48048.htm" />
+  <HelpKINode Title="BoardingJourneyCard.owner field" Url="html/d1079905-3004-ffb7-4d32-5d973a52da96.htm" />
+  <HelpKINode Title="BoardingJourneyCard.seat field" Url="html/0760e9f9-c35b-c0ce-e270-35cbe77817ce.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetArrivalDate method" Url="html/db4588d6-f6cc-92de-c401-a24903a0bf0a.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetClient method" Url="html/153347c5-ea04-caa3-69f4-f6084a8f3617.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetDenied method" Url="html/f38be819-cbd4-1546-45e8-e87968d132ea.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetDeparture method" Url="html/73dbe512-e879-f734-4dd9-0e67eea8c863.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetDepartureDate method" Url="html/640f858f-78ce-59c2-09a4-3056f0b6526f.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetDestination method" Url="html/f703388e-de09-70be-1fb1-0b391d5dddc4.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetId method" Url="html/fd353294-2b10-c197-80dd-09db92f20534.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetSeat method" Url="html/68de3dfa-29d8-733a-917a-9e77fc18c9f6.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetTransport method" Url="html/0e170e92-f230-7d22-8ee7-0becaaff93a6.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetTransportCompany method" Url="html/19109eca-0e24-1af1-eb21-58e5462f5ffa.htm" />
+  <HelpKINode Title="BoardingJourneyCard.SetValid method" Url="html/eed568d8-d1e1-f43c-204d-2c192f8a56a3.htm" />
+  <HelpKINode Title="BoardingJourneyCard.transport field" Url="html/acca7c7b-a656-c4d4-c942-a20984d84822.htm" />
+  <HelpKINode Title="BoardingJourneyCard.transportProvider field" Url="html/58bc504c-cd1f-732f-b02f-19d3ff0a2629.htm" />
+  <HelpKINode Title="BoardingJourneyCard.valid field" Url="html/3a52dab1-2663-2147-bcfd-2b8a7ab7e517.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner class">
+    <HelpKINode Title="BoardingJourneyCardOwner Class" Url="html/f4cf30c3-6fa2-a0fb-8c86-a6d94ca89120.htm" />
+    <HelpKINode Title="about BoardingJourneyCardOwner class" Url="html/f4cf30c3-6fa2-a0fb-8c86-a6d94ca89120.htm" />
+    <HelpKINode Title="constructor" Url="html/06b7fd7c-bc3c-a597-04a8-eba8a1b83755.htm" />
+    <HelpKINode Title="fields" Url="html/83075485-59ac-a311-9163-0c4afe9bc76a.htm" />
+    <HelpKINode Title="methods" Url="html/1967a6e1-b6e0-9640-aafe-ee27f8790075.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BoardingJourneyCardOwner.age field" Url="html/5e98925f-7650-1bc4-97b2-beb6de999cd8.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.BoardingJourneyCardOwner constructor" Url="html/06b7fd7c-bc3c-a597-04a8-eba8a1b83755.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.firstName field" Url="html/5e0c1fd0-e286-cbcf-1200-6315962d52d1.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.GetAge method" Url="html/5e378b92-45af-dd1b-1dd4-0c68d0f94db3.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.GetFirstName method" Url="html/a6842b5f-d456-2dfc-0f26-f9a32fc11e54.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.GetName method" Url="html/3b862b4d-8484-548c-50fe-582f17ec7b75.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.name field" Url="html/265ff992-a523-bb69-b03f-42bae6866064.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.SetAge method" Url="html/43c2c0b8-f700-464d-f1c7-9b34de28af59.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.SetFirstName method" Url="html/c62bd75c-ebae-a1c2-12e9-e7ccd2bd1046.htm" />
+  <HelpKINode Title="BoardingJourneyCardOwner.SetName method" Url="html/a1184bd7-c574-8c7e-7649-93e18287398a.htm" />
+  <HelpKINode Title="BoardingJourneyCards field" Url="html/060edc71-7d20-5390-9836-6046e0b0c568.htm" />
+  <HelpKINode Title="BuildDeparturesDestinationsTables method" Url="html/45fe5813-244a-8366-bddf-9130943bbb43.htm" />
+  <HelpKINode Title="Bus class">
+    <HelpKINode Title="Bus Class" Url="html/9cae5920-03cd-3ff9-58ca-f3fbda317d8b.htm" />
+    <HelpKINode Title="about Bus class" Url="html/9cae5920-03cd-3ff9-58ca-f3fbda317d8b.htm" />
+    <HelpKINode Title="constructor" Url="html/5a56cd24-cb9b-e21b-6e5a-6dc9f9ef08cf.htm" />
+    <HelpKINode Title="fields" Url="html/059c095d-b428-ac66-1d80-56fc0d08cfe9.htm" />
+    <HelpKINode Title="methods" Url="html/f0213a45-811e-21b3-cd2c-4f68b15b9fd9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Bus.Bus constructor" Url="html/5a56cd24-cb9b-e21b-6e5a-6dc9f9ef08cf.htm" />
+  <HelpKINode Title="Bus.DateOffRoad method" Url="html/26a579b9-4446-c094-0f26-1cfaecf2dbe1.htm" />
+  <HelpKINode Title="Bus.GetTypeVehicle method" Url="html/7d441cc9-c63f-912e-3998-808f8d39bc30.htm" />
+  <HelpKINode Title="Bus.IsOutOfOrder method" Url="html/3062fc1a-1108-3b2c-b7b7-4cd450a12aad.htm" />
+  <HelpKINode Title="BusBoardingJourneyCard class">
+    <HelpKINode Title="BusBoardingJourneyCard Class" Url="html/9ca4d6c3-6611-874e-1410-1ab485f93ef2.htm" />
+    <HelpKINode Title="about BusBoardingJourneyCard class" Url="html/9ca4d6c3-6611-874e-1410-1ab485f93ef2.htm" />
+    <HelpKINode Title="constructor" Url="html/15b11d1c-2def-05f5-a6fe-6714acfd5798.htm" />
+    <HelpKINode Title="fields" Url="html/191fb830-476a-e133-3b3f-458dc8da33c9.htm" />
+    <HelpKINode Title="methods" Url="html/6115969b-29d2-55fb-cdb7-254429b7a22a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BusBoardingJourneyCard.BusBoardingJourneyCard constructor" Url="html/15b11d1c-2def-05f5-a6fe-6714acfd5798.htm" />
+  <HelpKINode Title="BusBoardingJourneyCard.GetMoreInformation method" Url="html/11b7ea15-45ff-35c7-89d8-4ac5e03809f3.htm" />
+  <HelpKINode Title="BusBoardingJourneyCardExtension class">
+    <HelpKINode Title="BusBoardingJourneyCardExtension Class" Url="html/2479fa17-e585-1f21-abb1-f0b781416cd5.htm" />
+    <HelpKINode Title="about BusBoardingJourneyCardExtension class" Url="html/2479fa17-e585-1f21-abb1-f0b781416cd5.htm" />
+    <HelpKINode Title="constructor" Url="html/aba9f22c-7914-066f-5fa2-111823c7f148.htm" />
+    <HelpKINode Title="methods" Url="html/b4eabbae-0433-2c16-0a14-9ced15fca012.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BusBoardingJourneyCardExtension.BusBoardingJourneyCardExtension constructor" Url="html/aba9f22c-7914-066f-5fa2-111823c7f148.htm" />
+  <HelpKINode Title="BusBoardingJourneyCardExtension.CreateBoardingJourneyCard method" Url="html/98ec1bd7-afea-a9ff-cbc8-856fe87dedd2.htm" />
+  <HelpKINode Title="BusProvider class">
+    <HelpKINode Title="BusProvider Class" Url="html/0712d786-b3e1-0bae-7621-e37722704a31.htm" />
+    <HelpKINode Title="about BusProvider class" Url="html/0712d786-b3e1-0bae-7621-e37722704a31.htm" />
+    <HelpKINode Title="constructor" Url="html/81f8c743-e78b-c627-8aa7-a48cc612bb77.htm" />
+    <HelpKINode Title="fields" Url="html/0c911be1-bdc7-7991-7436-b53c31be3960.htm" />
+    <HelpKINode Title="methods" Url="html/f1afce0b-68fb-6275-1757-df1a4e77f949.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BusProvider.BusProvider constructor" Url="html/81f8c743-e78b-c627-8aa7-a48cc612bb77.htm" />
+  <HelpKINode Title="capacity field" Url="html/16a80651-b675-3d43-352c-7c92bd64fa4e.htm" />
+  <HelpKINode Title="city field" Url="html/958f316d-0123-a8a6-a3a6-02f869ff4f44.htm" />
+  <HelpKINode Title="Constants class">
+    <HelpKINode Title="Constants Class" Url="html/ce8acfe9-2e69-d9cf-b254-d00c4bcec790.htm" />
+    <HelpKINode Title="about Constants class" Url="html/ce8acfe9-2e69-d9cf-b254-d00c4bcec790.htm" />
+    <HelpKINode Title="constructor" Url="html/9c16712f-c0ee-4238-6d17-35d47928fa7f.htm" />
+    <HelpKINode Title="fields" Url="html/742b93fb-3785-88be-2331-fe17640e9892.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Constants.Constants constructor" Url="html/9c16712f-c0ee-4238-6d17-35d47928fa7f.htm" />
+  <HelpKINode Title="Constants.LatesId field" Url="html/97daf67a-b1c8-b729-388c-5937b509a240.htm" />
+  <HelpKINode Title="country field" Url="html/60bbbb00-ad08-67e6-36be-f8134bb1811e.htm" />
+  <HelpKINode Title="CreateBoardingJourneyCard method">
+    <HelpKINode Title="AirplaneBoardingJourneyCardExtension.CreateBoardingJourneyCard Method " Url="html/f6822a11-ba16-2ab0-b99a-4eec5a091a7b.htm" />
+    <HelpKINode Title="BusBoardingJourneyCardExtension.CreateBoardingJourneyCard Method " Url="html/98ec1bd7-afea-a9ff-cbc8-856fe87dedd2.htm" />
+    <HelpKINode Title="IBoardingJourneyCardExtension.CreateBoardingJourneyCard Method " Url="html/f641e82c-3d6a-d4fe-d5e4-bc770a72b67c.htm" />
+    <HelpKINode Title="TrainBoardingJourneyCardExtension.CreateBoardingJourneyCard Method " Url="html/ca19dae0-1a27-d5f1-2a7c-ca843eec8c89.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DateOffRoad method">
+    <HelpKINode Title="Airplane.DateOffRoad Method " Url="html/7b4fd61d-a0ac-c94b-a263-a99d600c4d78.htm" />
+    <HelpKINode Title="Bus.DateOffRoad Method " Url="html/26a579b9-4446-c094-0f26-1cfaecf2dbe1.htm" />
+    <HelpKINode Title="Train.DateOffRoad Method " Url="html/8ef2ee67-e576-0d07-638f-6181f5a2a934.htm" />
+    <HelpKINode Title="Transport.DateOffRoad Method " Url="html/b3e768ba-653e-d4f5-3baf-56813a7bcd33.htm" />
+  </HelpKINode>
+  <HelpKINode Title="denied field" Url="html/6623d919-1ed7-f38b-e8d9-3ec0e364ab1d.htm" />
+  <HelpKINode Title="departure field" Url="html/a3216a9e-4005-b5bc-b14f-6333b96e57be.htm" />
+  <HelpKINode Title="departureDate field" Url="html/b4442b7b-5de4-52af-268c-5994c0e95de8.htm" />
+  <HelpKINode Title="departuresCards field" Url="html/a8fd1f3b-4b7a-b383-3801-ce3464b11293.htm" />
+  <HelpKINode Title="destination field" Url="html/6de89199-f8f4-a2d6-a920-bee123904db9.htm" />
+  <HelpKINode Title="destinationsCards field" Url="html/bd31cd36-06a0-39cb-02de-1096ad86f3d1.htm" />
+  <HelpKINode Title="firstName field" Url="html/5e0c1fd0-e286-cbcf-1200-6315962d52d1.htm" />
+  <HelpKINode Title="flightNumber field" Url="html/666f3e60-8b9f-567d-c5b0-8af0947bcd1e.htm" />
+  <HelpKINode Title="foundationYear field" Url="html/6c581cf1-55e0-345f-7190-7c915b791953.htm" />
+  <HelpKINode Title="gate field" Url="html/566007c0-23a0-287e-0666-24f76fc70172.htm" />
+  <HelpKINode Title="GetAge method" Url="html/5e378b92-45af-dd1b-1dd4-0c68d0f94db3.htm" />
+  <HelpKINode Title="GetArrivalDate method" Url="html/a0487285-cca8-b283-eb86-afdfbdcabd6b.htm" />
+  <HelpKINode Title="GetBaggaGeticketCounter method" Url="html/c17ac165-6210-2ed5-8094-b761ea63e40e.htm" />
+  <HelpKINode Title="GetCapacity method" Url="html/2f9c954c-3026-8a79-e771-5c63442e2f11.htm" />
+  <HelpKINode Title="GetCity method" Url="html/6aa597f4-c059-8b4a-dc5e-622f68c539e4.htm" />
+  <HelpKINode Title="GetClient method" Url="html/cab0a038-f104-a552-e7eb-6d391ee0ec1b.htm" />
+  <HelpKINode Title="GetCompanyName method" Url="html/eb16179b-e702-cb73-d733-b68c6442486c.htm" />
+  <HelpKINode Title="GetCountry method" Url="html/907514c2-21dc-5e38-035a-e6bbc8c2af02.htm" />
+  <HelpKINode Title="GetDenied method" Url="html/c7a6c271-06da-bf8d-b54c-68a801168fc5.htm" />
+  <HelpKINode Title="GetDeparture method" Url="html/1974684d-80f2-fc7c-8f77-e27f25c6b6a7.htm" />
+  <HelpKINode Title="GetDepartureDate method" Url="html/403901b8-68b9-d260-ad1f-0c1fdc78c416.htm" />
+  <HelpKINode Title="GetDestination method" Url="html/2632cf7d-d6a8-e048-99bd-fad5db4bc962.htm" />
+  <HelpKINode Title="GetFirstName method" Url="html/a6842b5f-d456-2dfc-0f26-f9a32fc11e54.htm" />
+  <HelpKINode Title="GetFlightNumber method" Url="html/ffa0a595-0c1a-593e-9f8a-b65c00850bbf.htm" />
+  <HelpKINode Title="GetFoundationYear method" Url="html/1a891c53-8c5b-704c-d2cd-877623271270.htm" />
+  <HelpKINode Title="GetGate method" Url="html/886aa4b0-35ff-6348-6c5f-7389b6bf9630.htm" />
+  <HelpKINode Title="GetHeadquarters method" Url="html/f5e3d16f-47f2-8e7b-5a32-68d497d39101.htm" />
+  <HelpKINode Title="GetHeadQuarters method" Url="html/065310c9-4522-096f-40d9-98068b67d97d.htm" />
+  <HelpKINode Title="Getid method">
+    <HelpKINode Title="BoardingJourneyCard.Getid Method " Url="html/2afa753c-0c47-5602-c587-c5be2fe46c28.htm" />
+    <HelpKINode Title="Location.Getid Method " Url="html/d62ecc38-1513-22fa-b53c-bca7740ac76b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetInitialBoardingJourneyCard method" Url="html/c9c3b450-1e80-b1f4-1ba4-956b3a0e1e21.htm" />
+  <HelpKINode Title="GetInUseDate method" Url="html/c4b0f4da-47a8-8f4d-16ea-f3af751d68b8.htm" />
+  <HelpKINode Title="GetLatitude method" Url="html/ba501aeb-3f23-e3b8-ba97-869c9edbbc15.htm" />
+  <HelpKINode Title="GetLongitude method" Url="html/18a93ee9-4705-b102-99f3-3678dae96bf5.htm" />
+  <HelpKINode Title="GetMaker method" Url="html/15d1a413-0355-cb4c-41b2-c6d5df856702.htm" />
+  <HelpKINode Title="GetMoreInformation method">
+    <HelpKINode Title="AirplaneBoardingJourneyCard.GetMoreInformation Method " Url="html/09bbf79b-3814-38f8-77c8-71da61015c47.htm" />
+    <HelpKINode Title="BoardingJourneyCard.GetMoreInformation Method " Url="html/59d177e9-5238-ae00-3bf4-d4ad0aa63a27.htm" />
+    <HelpKINode Title="BusBoardingJourneyCard.GetMoreInformation Method " Url="html/11b7ea15-45ff-35c7-89d8-4ac5e03809f3.htm" />
+    <HelpKINode Title="TrainBoardingJourneyCard.GetMoreInformation Method " Url="html/9fc27bfb-c2c7-f4f2-7238-60403a21c455.htm" />
+    <HelpKINode Title="Transport.GetMoreInformation Method " Url="html/3200a06e-559f-36ca-bebc-4d71be5697cc.htm" />
+    <HelpKINode Title="TransportProvider.GetMoreInformation Method " Url="html/cfb9c553-d632-6e9e-2f60-d408ad51a08f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetMoreInformationFroTravel method" Url="html/b757fe54-a8dd-4a97-3244-f8fa59bc1843.htm" />
+  <HelpKINode Title="GetName method">
+    <HelpKINode Title="BoardingJourneyCardOwner.GetName Method " Url="html/3b862b4d-8484-548c-50fe-582f17ec7b75.htm" />
+    <HelpKINode Title="Maker.GetName Method " Url="html/3d0a963d-ab73-97d3-1d79-59b2a042dbc6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetNumEmployees method" Url="html/f9bba367-f720-8021-6abd-77f2a9334ea4.htm" />
+  <HelpKINode Title="GetPurchaseDate method" Url="html/1aba04f0-65fe-65b2-d698-375ac8b0aab7.htm" />
+  <HelpKINode Title="GetSeat method" Url="html/ebf63732-e688-127b-d744-5febe2cc9b52.htm" />
+  <HelpKINode Title="GetTrainNumber method" Url="html/e74019fe-b2c2-b256-fcca-8d6631ef0a1b.htm" />
+  <HelpKINode Title="GetTransport method" Url="html/20e817e3-ec72-46f6-a6e0-698c66dc983d.htm" />
+  <HelpKINode Title="GetTransportCompany method">
+    <HelpKINode Title="BoardingJourneyCard.GetTransportCompany Method " Url="html/00db5532-698c-4ddb-ca73-bb9ae6f9ca89.htm" />
+    <HelpKINode Title="Transport.GetTransportCompany Method " Url="html/87fb549c-4867-0080-9373-38ec48162495.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetTypeVehicle method">
+    <HelpKINode Title="Airplane.GetTypeVehicle Method " Url="html/c10079ed-b9b3-ca1f-767d-6abc8dc96cb0.htm" />
+    <HelpKINode Title="Bus.GetTypeVehicle Method " Url="html/7d441cc9-c63f-912e-3998-808f8d39bc30.htm" />
+    <HelpKINode Title="Train.GetTypeVehicle Method " Url="html/81fca5bc-e3cc-df85-8ca5-a3ddba51a31f.htm" />
+    <HelpKINode Title="Transport.GetTypeVehicle Method " Url="html/dd1783ad-9b7c-09b7-1669-e28b4f00a498.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetValid method" Url="html/31734be3-de1a-6a4c-5c1c-a883afb476fa.htm" />
+  <HelpKINode Title="GetVehiclesByYear method">
+    <HelpKINode Title="AirbusMaker.GetVehiclesByYear Method " Url="html/8aa5bf73-a26d-a632-f088-8696ddac40c8.htm" />
+    <HelpKINode Title="Maker.GetVehiclesByYear Method " Url="html/bf5432ca-557f-0f17-3481-042188f2df5d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="headquarters field">
+    <HelpKINode Title="Maker.headquarters Field" Url="html/08c1565c-c91b-cf9a-316a-b471651b5b27.htm" />
+    <HelpKINode Title="TransportProvider.headquarters Field" Url="html/5d0fc41a-cdb4-db1c-2203-6f96c8c58ccd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBoardingJourneyCardExtension interface">
+    <HelpKINode Title="IBoardingJourneyCardExtension Interface" Url="html/5c4e750a-abdf-34bc-f34f-5ac023fdacf0.htm" />
+    <HelpKINode Title="about IBoardingJourneyCardExtension interface" Url="html/5c4e750a-abdf-34bc-f34f-5ac023fdacf0.htm" />
+    <HelpKINode Title="methods" Url="html/57c20dfe-e085-d4fd-c6bf-490c4eb6a99d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBoardingJourneyCardExtension.CreateBoardingJourneyCard method" Url="html/f641e82c-3d6a-d4fe-d5e4-bc770a72b67c.htm" />
+  <HelpKINode Title="id field">
+    <HelpKINode Title="BoardingJourneyCard.id Field" Url="html/c35b5c6f-8abc-5d7e-b119-0aab8fc48048.htm" />
+    <HelpKINode Title="Location.id Field" Url="html/90227f4d-5408-1c41-2912-800118e4e286.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IJourneySorterTechnique interface">
+    <HelpKINode Title="IJourneySorterTechnique Interface" Url="html/a0c9bbde-7c69-709a-40f9-72758e1b512c.htm" />
+    <HelpKINode Title="about IJourneySorterTechnique interface" Url="html/a0c9bbde-7c69-709a-40f9-72758e1b512c.htm" />
+    <HelpKINode Title="methods" Url="html/103bb606-d4ba-2082-3136-6e3862bcc7a2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IJourneySorterTechnique.SortJourney method" Url="html/7e6f42a3-61b9-582e-4735-9b59ba8ab8f0.htm" />
+  <HelpKINode Title="inUseDate field" Url="html/8e33d87e-b65b-1764-48f3-d8a890172b46.htm" />
+  <HelpKINode Title="IsOutOfOrder method">
+    <HelpKINode Title="Airplane.IsOutOfOrder Method " Url="html/ae067f81-cdeb-5fea-7ea8-79da429f3d87.htm" />
+    <HelpKINode Title="Bus.IsOutOfOrder Method " Url="html/3062fc1a-1108-3b2c-b7b7-4cd450a12aad.htm" />
+    <HelpKINode Title="Train.IsOutOfOrder Method " Url="html/8b48b6a1-4e67-9ea9-3cc3-a3aea05f4358.htm" />
+    <HelpKINode Title="Transport.IsOutOfOrder Method " Url="html/afd832b4-42e7-02da-f568-4ca87ba9befa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Journey class">
+    <HelpKINode Title="Journey Class" Url="html/45f66e07-25a2-6e7e-ff46-1e5494da31a4.htm" />
+    <HelpKINode Title="about Journey class" Url="html/45f66e07-25a2-6e7e-ff46-1e5494da31a4.htm" />
+    <HelpKINode Title="constructor" Url="html/35049113-7418-a2b6-42a8-bdca0712a0d3.htm" />
+    <HelpKINode Title="fields" Url="html/f12e1291-4387-5bad-1f0e-71150e55d939.htm" />
+    <HelpKINode Title="methods" Url="html/c4f02f81-ddf0-ff34-4175-ab3d687e328d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Journey.BoardingJourneyCards field" Url="html/060edc71-7d20-5390-9836-6046e0b0c568.htm" />
+  <HelpKINode Title="Journey.GetMoreInformationFroTravel method" Url="html/b757fe54-a8dd-4a97-3244-f8fa59bc1843.htm" />
+  <HelpKINode Title="Journey.Journey constructor" Url="html/35049113-7418-a2b6-42a8-bdca0712a0d3.htm" />
+  <HelpKINode Title="Journey.orderingTechnique field" Url="html/a5344435-f1b8-b8a2-b024-731c555dfc4d.htm" />
+  <HelpKINode Title="Journey.SetOrderingTravelTechnique method" Url="html/2afcef7f-1c03-1cbb-6a56-75b694b1d03f.htm" />
+  <HelpKINode Title="Journey.SortJourney method" Url="html/1ad57830-7313-d4f9-b752-0f4a344dc657.htm" />
+  <HelpKINode Title="JourneySorterAssembly namespace" Url="html/09924c82-bfd5-6379-5dbc-8e8a5eac450f.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Constants class" Url="html/ce8acfe9-2e69-d9cf-b254-d00c4bcec790.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper namespace" Url="html/10636c61-d1a0-4c6f-e429-3d4cbf80a651.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.AirplaneBoardingJourneyCard class" Url="html/10b81fb5-c204-1090-1c83-1055a2e356fd.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.AirplaneBoardingJourneyCardExtension class" Url="html/2b7ea59e-d91a-f015-a19e-a6b526e3a945.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.BoardingJourneyCard class" Url="html/e9431a76-40f2-ab8a-0e25-9b66b9f12079.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.BoardingJourneyCardOwner class" Url="html/f4cf30c3-6fa2-a0fb-8c86-a6d94ca89120.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.BusBoardingJourneyCard class" Url="html/9ca4d6c3-6611-874e-1410-1ab485f93ef2.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.BusBoardingJourneyCardExtension class" Url="html/2479fa17-e585-1f21-abb1-f0b781416cd5.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.IBoardingJourneyCardExtension interface" Url="html/5c4e750a-abdf-34bc-f34f-5ac023fdacf0.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.IJourneySorterTechnique interface" Url="html/a0c9bbde-7c69-709a-40f9-72758e1b512c.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.Journey class" Url="html/45f66e07-25a2-6e7e-ff46-1e5494da31a4.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.TechniqueNoStartNoEnd class" Url="html/2fd36e92-7013-5dc4-9589-c92e67496a86.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.TrainBoardingJourneyCard class" Url="html/1e03751a-88e0-5e3d-a8c2-b5dc4ce6db28.htm" />
+  <HelpKINode Title="JourneySorterAssembly.JourneyHelper.TrainBoardingJourneyCardExtension class" Url="html/2c85f7f7-4984-33e3-7342-67c6c9b7d4fc.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Locator namespace" Url="html/a80cdb34-5088-b044-a4a3-34689265b3fb.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Locator.Location class" Url="html/1398f449-d37e-fc45-c9d7-d41992dbe08e.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation namespace" Url="html/a189a9b8-9893-2bd9-d4e7-38b91bd87211.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.AirbusMaker class" Url="html/91d6022e-f157-babb-6990-452e94701152.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.Airplane class" Url="html/3b3dad3a-5f86-867e-1fe0-68a37c9b60af.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.AirplaneProvider class" Url="html/3c8dbb6f-2796-9080-7a95-9b3152b46271.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.Bus class" Url="html/9cae5920-03cd-3ff9-58ca-f3fbda317d8b.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.BusProvider class" Url="html/0712d786-b3e1-0bae-7621-e37722704a31.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.Maker class" Url="html/16cd9ae4-c578-9368-6b0d-cac428e1688e.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.Train class" Url="html/dd0f08d2-581e-4ea7-0eab-4b167e2c47ad.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.TrainProvider class" Url="html/01b5e6d2-3c00-a19b-e4d3-350926e81289.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.Transport class" Url="html/4f1c8207-3e6c-8b3e-58fa-39058ea887dd.htm" />
+  <HelpKINode Title="JourneySorterAssembly.Transportation.TransportProvider class" Url="html/0582e13d-dc93-797d-87a3-bf530e2794ba.htm" />
+  <HelpKINode Title="LatesId field" Url="html/97daf67a-b1c8-b729-388c-5937b509a240.htm" />
+  <HelpKINode Title="latitude field" Url="html/dd62ca75-1322-be1e-736c-a6bddd397413.htm" />
+  <HelpKINode Title="Location class">
+    <HelpKINode Title="Location Class" Url="html/1398f449-d37e-fc45-c9d7-d41992dbe08e.htm" />
+    <HelpKINode Title="about Location class" Url="html/1398f449-d37e-fc45-c9d7-d41992dbe08e.htm" />
+    <HelpKINode Title="constructor" Url="html/5904a759-7769-08de-9c50-9bd15967c3ef.htm" />
+    <HelpKINode Title="fields" Url="html/5097d824-314e-abfb-3eea-0b6f190c9746.htm" />
+    <HelpKINode Title="methods" Url="html/f8b3395a-de84-0682-c351-1515168e6bc7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Location.city field" Url="html/958f316d-0123-a8a6-a3a6-02f869ff4f44.htm" />
+  <HelpKINode Title="Location.country field" Url="html/60bbbb00-ad08-67e6-36be-f8134bb1811e.htm" />
+  <HelpKINode Title="Location.GetCity method" Url="html/6aa597f4-c059-8b4a-dc5e-622f68c539e4.htm" />
+  <HelpKINode Title="Location.GetCountry method" Url="html/907514c2-21dc-5e38-035a-e6bbc8c2af02.htm" />
+  <HelpKINode Title="Location.Getid method" Url="html/d62ecc38-1513-22fa-b53c-bca7740ac76b.htm" />
+  <HelpKINode Title="Location.GetLatitude method" Url="html/ba501aeb-3f23-e3b8-ba97-869c9edbbc15.htm" />
+  <HelpKINode Title="Location.GetLongitude method" Url="html/18a93ee9-4705-b102-99f3-3678dae96bf5.htm" />
+  <HelpKINode Title="Location.id field" Url="html/90227f4d-5408-1c41-2912-800118e4e286.htm" />
+  <HelpKINode Title="Location.latitude field" Url="html/dd62ca75-1322-be1e-736c-a6bddd397413.htm" />
+  <HelpKINode Title="Location.Location constructor" Url="html/5904a759-7769-08de-9c50-9bd15967c3ef.htm" />
+  <HelpKINode Title="Location.longitude field" Url="html/cb9e48ba-6638-e87a-944d-9a0278b823b4.htm" />
+  <HelpKINode Title="Location.NearestPlaces method" Url="html/ebcbd3c9-959d-e78a-ba70-eae611c83926.htm" />
+  <HelpKINode Title="Location.SetCity method" Url="html/612c7f20-6943-3929-f3b9-f4f93d0c4559.htm" />
+  <HelpKINode Title="Location.SetCountry method" Url="html/31d6d3c9-ef4e-39a1-2d73-408596e891c6.htm" />
+  <HelpKINode Title="Location.Setid method" Url="html/0b797e8f-8635-a9a5-f21b-48226443c692.htm" />
+  <HelpKINode Title="Location.SetLatitude method" Url="html/89db6087-4a95-33de-762a-b0128cda5c26.htm" />
+  <HelpKINode Title="Location.SetLongitude method" Url="html/91e254d2-9bcd-0e53-7308-2ed1d8cbb451.htm" />
+  <HelpKINode Title="longitude field" Url="html/cb9e48ba-6638-e87a-944d-9a0278b823b4.htm" />
+  <HelpKINode Title="Maker class">
+    <HelpKINode Title="Maker Class" Url="html/16cd9ae4-c578-9368-6b0d-cac428e1688e.htm" />
+    <HelpKINode Title="about Maker class" Url="html/16cd9ae4-c578-9368-6b0d-cac428e1688e.htm" />
+    <HelpKINode Title="constructor" Url="html/6d15595a-36ab-e315-98cf-bfd407a6ffab.htm" />
+    <HelpKINode Title="fields" Url="html/8f851d4a-e905-1ad2-d922-6f9f2f351fbf.htm" />
+    <HelpKINode Title="methods" Url="html/8ae243b0-44af-1e19-e0c7-c572b1f54517.htm" />
+  </HelpKINode>
+  <HelpKINode Title="maker field" Url="html/a7f46648-3210-58da-770d-2b6f6ed912ee.htm" />
+  <HelpKINode Title="Maker.GetHeadquarters method" Url="html/f5e3d16f-47f2-8e7b-5a32-68d497d39101.htm" />
+  <HelpKINode Title="Maker.GetName method" Url="html/3d0a963d-ab73-97d3-1d79-59b2a042dbc6.htm" />
+  <HelpKINode Title="Maker.GetVehiclesByYear method" Url="html/bf5432ca-557f-0f17-3481-042188f2df5d.htm" />
+  <HelpKINode Title="Maker.headquarters field" Url="html/08c1565c-c91b-cf9a-316a-b471651b5b27.htm" />
+  <HelpKINode Title="Maker.Maker constructor" Url="html/6d15595a-36ab-e315-98cf-bfd407a6ffab.htm" />
+  <HelpKINode Title="Maker.name field" Url="html/a108c61e-2caf-bb08-5c29-cdccc89bd9d5.htm" />
+  <HelpKINode Title="Maker.SetHeadquarters method" Url="html/85774748-5335-9629-90c4-a4f88689d174.htm" />
+  <HelpKINode Title="Maker.SetName method" Url="html/3097ab8a-cb39-0dde-0e97-34bae80ae10b.htm" />
+  <HelpKINode Title="name field">
+    <HelpKINode Title="BoardingJourneyCardOwner.name Field" Url="html/265ff992-a523-bb69-b03f-42bae6866064.htm" />
+    <HelpKINode Title="Maker.name Field" Url="html/a108c61e-2caf-bb08-5c29-cdccc89bd9d5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="nameCompany field" Url="html/165b4770-d133-64f0-436b-0d4de9414eb9.htm" />
+  <HelpKINode Title="NearestPlaces method" Url="html/ebcbd3c9-959d-e78a-ba70-eae611c83926.htm" />
+  <HelpKINode Title="numOfEmployees field" Url="html/8015cbe2-9b0b-b995-7e56-da166c60b7bd.htm" />
+  <HelpKINode Title="orderingTechnique field" Url="html/a5344435-f1b8-b8a2-b024-731c555dfc4d.htm" />
+  <HelpKINode Title="owner field" Url="html/d1079905-3004-ffb7-4d32-5d973a52da96.htm" />
+  <HelpKINode Title="purchaseDate field" Url="html/facc2956-423f-6220-7b2d-7ba4c33514c9.htm" />
+  <HelpKINode Title="seat field" Url="html/0760e9f9-c35b-c0ce-e270-35cbe77817ce.htm" />
+  <HelpKINode Title="SetAge method" Url="html/43c2c0b8-f700-464d-f1c7-9b34de28af59.htm" />
+  <HelpKINode Title="SetArrivalDate method" Url="html/db4588d6-f6cc-92de-c401-a24903a0bf0a.htm" />
+  <HelpKINode Title="SetBaggageTicketCounter method" Url="html/8e087a47-7d33-78bc-5ca7-4874c42e913b.htm" />
+  <HelpKINode Title="SetCapacity method" Url="html/d499128c-405d-d434-029e-12275edfdcc2.htm" />
+  <HelpKINode Title="SetCity method" Url="html/612c7f20-6943-3929-f3b9-f4f93d0c4559.htm" />
+  <HelpKINode Title="SetClient method" Url="html/153347c5-ea04-caa3-69f4-f6084a8f3617.htm" />
+  <HelpKINode Title="SetCompanyName method" Url="html/12c62363-fc95-6288-d534-f7ff3a28fe3b.htm" />
+  <HelpKINode Title="SetCountry method" Url="html/31d6d3c9-ef4e-39a1-2d73-408596e891c6.htm" />
+  <HelpKINode Title="SetDenied method" Url="html/f38be819-cbd4-1546-45e8-e87968d132ea.htm" />
+  <HelpKINode Title="SetDeparture method" Url="html/73dbe512-e879-f734-4dd9-0e67eea8c863.htm" />
+  <HelpKINode Title="SetDepartureDate method" Url="html/640f858f-78ce-59c2-09a4-3056f0b6526f.htm" />
+  <HelpKINode Title="SetDestination method" Url="html/f703388e-de09-70be-1fb1-0b391d5dddc4.htm" />
+  <HelpKINode Title="SetFirstName method" Url="html/c62bd75c-ebae-a1c2-12e9-e7ccd2bd1046.htm" />
+  <HelpKINode Title="SetFlightNumber method" Url="html/781f7006-ab12-8af5-0570-b96f49018e27.htm" />
+  <HelpKINode Title="SetFoundationYear method" Url="html/94547c90-75b3-b245-0226-98a6699aebf3.htm" />
+  <HelpKINode Title="SetGate method" Url="html/99c624a5-c7ff-1228-4ca8-6e2358f73738.htm" />
+  <HelpKINode Title="SetHeadQuarters method" Url="html/649ade7f-9584-9f33-2bba-4d08ade7fb9b.htm" />
+  <HelpKINode Title="SetHeadquarters method" Url="html/85774748-5335-9629-90c4-a4f88689d174.htm" />
+  <HelpKINode Title="SetId method" Url="html/fd353294-2b10-c197-80dd-09db92f20534.htm" />
+  <HelpKINode Title="Setid method" Url="html/0b797e8f-8635-a9a5-f21b-48226443c692.htm" />
+  <HelpKINode Title="SetInUseDate method" Url="html/d7d593b6-4027-8e56-fe9c-3e420e617e54.htm" />
+  <HelpKINode Title="SetLatitude method" Url="html/89db6087-4a95-33de-762a-b0128cda5c26.htm" />
+  <HelpKINode Title="SetLongitude method" Url="html/91e254d2-9bcd-0e53-7308-2ed1d8cbb451.htm" />
+  <HelpKINode Title="SetMaker method" Url="html/4a945ae2-f893-74b5-f987-574159e7653f.htm" />
+  <HelpKINode Title="SetName method">
+    <HelpKINode Title="BoardingJourneyCardOwner.SetName Method " Url="html/a1184bd7-c574-8c7e-7649-93e18287398a.htm" />
+    <HelpKINode Title="Maker.SetName Method " Url="html/3097ab8a-cb39-0dde-0e97-34bae80ae10b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetNumEmployees method" Url="html/c0bc2789-c822-2713-0efe-fb2c37ae9bb3.htm" />
+  <HelpKINode Title="SetOrderingTravelTechnique method" Url="html/2afcef7f-1c03-1cbb-6a56-75b694b1d03f.htm" />
+  <HelpKINode Title="SetPurchaseDate method" Url="html/b6d1df26-b529-6d93-ed3e-f0ae04d64110.htm" />
+  <HelpKINode Title="SetSeat method" Url="html/68de3dfa-29d8-733a-917a-9e77fc18c9f6.htm" />
+  <HelpKINode Title="SetTrainNumber method" Url="html/0a0f22d6-41db-5b3c-98f3-7693a41cb218.htm" />
+  <HelpKINode Title="SetTransport method" Url="html/0e170e92-f230-7d22-8ee7-0becaaff93a6.htm" />
+  <HelpKINode Title="SetTransportCompany method">
+    <HelpKINode Title="BoardingJourneyCard.SetTransportCompany Method " Url="html/19109eca-0e24-1af1-eb21-58e5462f5ffa.htm" />
+    <HelpKINode Title="Transport.SetTransportCompany Method " Url="html/6deab7af-fcf2-185a-f73a-ab990d9c79fd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetValid method" Url="html/eed568d8-d1e1-f43c-204d-2c192f8a56a3.htm" />
+  <HelpKINode Title="SortBoardingJourneyCards method" Url="html/5d034c0e-e188-14c6-f0d9-f35841d71d7f.htm" />
+  <HelpKINode Title="SortJourney method">
+    <HelpKINode Title="IJourneySorterTechnique.SortJourney Method " Url="html/7e6f42a3-61b9-582e-4735-9b59ba8ab8f0.htm" />
+    <HelpKINode Title="Journey.SortJourney Method " Url="html/1ad57830-7313-d4f9-b752-0f4a344dc657.htm" />
+    <HelpKINode Title="TechniqueNoStartNoEnd.SortJourney Method " Url="html/75647fe9-3d43-6239-6e03-1aceaa54c145.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TechniqueNoStartNoEnd class">
+    <HelpKINode Title="TechniqueNoStartNoEnd Class" Url="html/2fd36e92-7013-5dc4-9589-c92e67496a86.htm" />
+    <HelpKINode Title="about TechniqueNoStartNoEnd class" Url="html/2fd36e92-7013-5dc4-9589-c92e67496a86.htm" />
+    <HelpKINode Title="constructor" Url="html/fb532e67-8c0b-a533-186b-bf3918877c1b.htm" />
+    <HelpKINode Title="fields" Url="html/f7382d0f-2a2a-15c1-0f2e-d833374b2b7c.htm" />
+    <HelpKINode Title="methods" Url="html/61224fff-42bc-1a52-b964-36d9ebb53294.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TechniqueNoStartNoEnd.BuildDeparturesDestinationsTables method" Url="html/45fe5813-244a-8366-bddf-9130943bbb43.htm" />
+  <HelpKINode Title="TechniqueNoStartNoEnd.departuresCards field" Url="html/a8fd1f3b-4b7a-b383-3801-ce3464b11293.htm" />
+  <HelpKINode Title="TechniqueNoStartNoEnd.destinationsCards field" Url="html/bd31cd36-06a0-39cb-02de-1096ad86f3d1.htm" />
+  <HelpKINode Title="TechniqueNoStartNoEnd.GetInitialBoardingJourneyCard method" Url="html/c9c3b450-1e80-b1f4-1ba4-956b3a0e1e21.htm" />
+  <HelpKINode Title="TechniqueNoStartNoEnd.SortBoardingJourneyCards method" Url="html/5d034c0e-e188-14c6-f0d9-f35841d71d7f.htm" />
+  <HelpKINode Title="TechniqueNoStartNoEnd.SortJourney method" Url="html/75647fe9-3d43-6239-6e03-1aceaa54c145.htm" />
+  <HelpKINode Title="TechniqueNoStartNoEnd.TechniqueNoStartNoEnd constructor" Url="html/fb532e67-8c0b-a533-186b-bf3918877c1b.htm" />
+  <HelpKINode Title="Train class">
+    <HelpKINode Title="Train Class" Url="html/dd0f08d2-581e-4ea7-0eab-4b167e2c47ad.htm" />
+    <HelpKINode Title="about Train class" Url="html/dd0f08d2-581e-4ea7-0eab-4b167e2c47ad.htm" />
+    <HelpKINode Title="constructor" Url="html/2c1e6ca4-39e0-3308-dee5-65407580fd2d.htm" />
+    <HelpKINode Title="fields" Url="html/240d9af6-0c23-df8d-2feb-9f3b369b4d6f.htm" />
+    <HelpKINode Title="methods" Url="html/6ebf10bc-f51f-8482-8167-0500bcbec75c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Train.DateOffRoad method" Url="html/8ef2ee67-e576-0d07-638f-6181f5a2a934.htm" />
+  <HelpKINode Title="Train.GetTrainNumber method" Url="html/e74019fe-b2c2-b256-fcca-8d6631ef0a1b.htm" />
+  <HelpKINode Title="Train.GetTypeVehicle method" Url="html/81fca5bc-e3cc-df85-8ca5-a3ddba51a31f.htm" />
+  <HelpKINode Title="Train.IsOutOfOrder method" Url="html/8b48b6a1-4e67-9ea9-3cc3-a3aea05f4358.htm" />
+  <HelpKINode Title="Train.SetTrainNumber method" Url="html/0a0f22d6-41db-5b3c-98f3-7693a41cb218.htm" />
+  <HelpKINode Title="Train.Train constructor" Url="html/2c1e6ca4-39e0-3308-dee5-65407580fd2d.htm" />
+  <HelpKINode Title="Train.trainNumber field" Url="html/2220adf3-0fba-70bd-90b5-a14cb0895f6d.htm" />
+  <HelpKINode Title="TrainBoardingJourneyCard class">
+    <HelpKINode Title="TrainBoardingJourneyCard Class" Url="html/1e03751a-88e0-5e3d-a8c2-b5dc4ce6db28.htm" />
+    <HelpKINode Title="about TrainBoardingJourneyCard class" Url="html/1e03751a-88e0-5e3d-a8c2-b5dc4ce6db28.htm" />
+    <HelpKINode Title="constructor" Url="html/1d9cbf40-a450-638f-eb96-69040495b71a.htm" />
+    <HelpKINode Title="fields" Url="html/21968fb0-6389-8e80-0892-b2b4f4aea5b7.htm" />
+    <HelpKINode Title="methods" Url="html/bf2ade59-376a-61ff-f7bd-f698a7a434de.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TrainBoardingJourneyCard.GetMoreInformation method" Url="html/9fc27bfb-c2c7-f4f2-7238-60403a21c455.htm" />
+  <HelpKINode Title="TrainBoardingJourneyCard.TrainBoardingJourneyCard constructor" Url="html/1d9cbf40-a450-638f-eb96-69040495b71a.htm" />
+  <HelpKINode Title="TrainBoardingJourneyCardExtension class">
+    <HelpKINode Title="TrainBoardingJourneyCardExtension Class" Url="html/2c85f7f7-4984-33e3-7342-67c6c9b7d4fc.htm" />
+    <HelpKINode Title="about TrainBoardingJourneyCardExtension class" Url="html/2c85f7f7-4984-33e3-7342-67c6c9b7d4fc.htm" />
+    <HelpKINode Title="constructor" Url="html/06020697-5a0b-a57e-1a6c-fddf890da350.htm" />
+    <HelpKINode Title="methods" Url="html/a3c9889e-ad46-d742-853d-d84c981c9356.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TrainBoardingJourneyCardExtension.CreateBoardingJourneyCard method" Url="html/ca19dae0-1a27-d5f1-2a7c-ca843eec8c89.htm" />
+  <HelpKINode Title="TrainBoardingJourneyCardExtension.TrainBoardingJourneyCardExtension constructor" Url="html/06020697-5a0b-a57e-1a6c-fddf890da350.htm" />
+  <HelpKINode Title="trainNumber field" Url="html/2220adf3-0fba-70bd-90b5-a14cb0895f6d.htm" />
+  <HelpKINode Title="TrainProvider class">
+    <HelpKINode Title="TrainProvider Class" Url="html/01b5e6d2-3c00-a19b-e4d3-350926e81289.htm" />
+    <HelpKINode Title="about TrainProvider class" Url="html/01b5e6d2-3c00-a19b-e4d3-350926e81289.htm" />
+    <HelpKINode Title="constructor" Url="html/9d518ede-5d63-f562-5371-7bb81c71560a.htm" />
+    <HelpKINode Title="fields" Url="html/4010558a-4dbe-7c8c-a0a3-ac0e9fed60d1.htm" />
+    <HelpKINode Title="methods" Url="html/ab908e03-4e74-daac-344d-a4a27a23c33f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TrainProvider.TrainProvider constructor" Url="html/9d518ede-5d63-f562-5371-7bb81c71560a.htm" />
+  <HelpKINode Title="Transport class">
+    <HelpKINode Title="Transport Class" Url="html/4f1c8207-3e6c-8b3e-58fa-39058ea887dd.htm" />
+    <HelpKINode Title="about Transport class" Url="html/4f1c8207-3e6c-8b3e-58fa-39058ea887dd.htm" />
+    <HelpKINode Title="constructor" Url="html/299bba80-ecac-27d7-9d57-572336645a12.htm" />
+    <HelpKINode Title="fields" Url="html/225906cb-5305-08d3-997a-794a353e2d98.htm" />
+    <HelpKINode Title="methods" Url="html/dcf20ccd-21a2-53af-c18b-c6e46893d0cd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="transport field" Url="html/acca7c7b-a656-c4d4-c942-a20984d84822.htm" />
+  <HelpKINode Title="Transport.capacity field" Url="html/16a80651-b675-3d43-352c-7c92bd64fa4e.htm" />
+  <HelpKINode Title="Transport.DateOffRoad method" Url="html/b3e768ba-653e-d4f5-3baf-56813a7bcd33.htm" />
+  <HelpKINode Title="Transport.GetCapacity method" Url="html/2f9c954c-3026-8a79-e771-5c63442e2f11.htm" />
+  <HelpKINode Title="Transport.GetInUseDate method" Url="html/c4b0f4da-47a8-8f4d-16ea-f3af751d68b8.htm" />
+  <HelpKINode Title="Transport.GetMaker method" Url="html/15d1a413-0355-cb4c-41b2-c6d5df856702.htm" />
+  <HelpKINode Title="Transport.GetMoreInformation method" Url="html/3200a06e-559f-36ca-bebc-4d71be5697cc.htm" />
+  <HelpKINode Title="Transport.GetPurchaseDate method" Url="html/1aba04f0-65fe-65b2-d698-375ac8b0aab7.htm" />
+  <HelpKINode Title="Transport.GetTransportCompany method" Url="html/87fb549c-4867-0080-9373-38ec48162495.htm" />
+  <HelpKINode Title="Transport.GetTypeVehicle method" Url="html/dd1783ad-9b7c-09b7-1669-e28b4f00a498.htm" />
+  <HelpKINode Title="Transport.inUseDate field" Url="html/8e33d87e-b65b-1764-48f3-d8a890172b46.htm" />
+  <HelpKINode Title="Transport.IsOutOfOrder method" Url="html/afd832b4-42e7-02da-f568-4ca87ba9befa.htm" />
+  <HelpKINode Title="Transport.maker field" Url="html/a7f46648-3210-58da-770d-2b6f6ed912ee.htm" />
+  <HelpKINode Title="Transport.purchaseDate field" Url="html/facc2956-423f-6220-7b2d-7ba4c33514c9.htm" />
+  <HelpKINode Title="Transport.SetCapacity method" Url="html/d499128c-405d-d434-029e-12275edfdcc2.htm" />
+  <HelpKINode Title="Transport.SetInUseDate method" Url="html/d7d593b6-4027-8e56-fe9c-3e420e617e54.htm" />
+  <HelpKINode Title="Transport.SetMaker method" Url="html/4a945ae2-f893-74b5-f987-574159e7653f.htm" />
+  <HelpKINode Title="Transport.SetPurchaseDate method" Url="html/b6d1df26-b529-6d93-ed3e-f0ae04d64110.htm" />
+  <HelpKINode Title="Transport.SetTransportCompany method" Url="html/6deab7af-fcf2-185a-f73a-ab990d9c79fd.htm" />
+  <HelpKINode Title="Transport.Transport constructor" Url="html/299bba80-ecac-27d7-9d57-572336645a12.htm" />
+  <HelpKINode Title="Transport.transportCompany field" Url="html/70d90aac-036f-cce8-7e01-a92de0303c61.htm" />
+  <HelpKINode Title="transportCompany field" Url="html/70d90aac-036f-cce8-7e01-a92de0303c61.htm" />
+  <HelpKINode Title="TransportProvider class">
+    <HelpKINode Title="TransportProvider Class" Url="html/0582e13d-dc93-797d-87a3-bf530e2794ba.htm" />
+    <HelpKINode Title="about TransportProvider class" Url="html/0582e13d-dc93-797d-87a3-bf530e2794ba.htm" />
+    <HelpKINode Title="constructor" Url="html/593d3105-27cf-2ca1-13f1-598b409f3271.htm" />
+    <HelpKINode Title="fields" Url="html/e736055c-05b7-f573-a4ab-e4e3d1d29460.htm" />
+    <HelpKINode Title="methods" Url="html/e20a332b-09ab-1b8c-7b60-2ea5a597c2de.htm" />
+  </HelpKINode>
+  <HelpKINode Title="transportProvider field" Url="html/58bc504c-cd1f-732f-b02f-19d3ff0a2629.htm" />
+  <HelpKINode Title="TransportProvider.foundationYear field" Url="html/6c581cf1-55e0-345f-7190-7c915b791953.htm" />
+  <HelpKINode Title="TransportProvider.GetCompanyName method" Url="html/eb16179b-e702-cb73-d733-b68c6442486c.htm" />
+  <HelpKINode Title="TransportProvider.GetFoundationYear method" Url="html/1a891c53-8c5b-704c-d2cd-877623271270.htm" />
+  <HelpKINode Title="TransportProvider.GetHeadQuarters method" Url="html/065310c9-4522-096f-40d9-98068b67d97d.htm" />
+  <HelpKINode Title="TransportProvider.GetMoreInformation method" Url="html/cfb9c553-d632-6e9e-2f60-d408ad51a08f.htm" />
+  <HelpKINode Title="TransportProvider.GetNumEmployees method" Url="html/f9bba367-f720-8021-6abd-77f2a9334ea4.htm" />
+  <HelpKINode Title="TransportProvider.headquarters field" Url="html/5d0fc41a-cdb4-db1c-2203-6f96c8c58ccd.htm" />
+  <HelpKINode Title="TransportProvider.nameCompany field" Url="html/165b4770-d133-64f0-436b-0d4de9414eb9.htm" />
+  <HelpKINode Title="TransportProvider.numOfEmployees field" Url="html/8015cbe2-9b0b-b995-7e56-da166c60b7bd.htm" />
+  <HelpKINode Title="TransportProvider.SetCompanyName method" Url="html/12c62363-fc95-6288-d534-f7ff3a28fe3b.htm" />
+  <HelpKINode Title="TransportProvider.SetFoundationYear method" Url="html/94547c90-75b3-b245-0226-98a6699aebf3.htm" />
+  <HelpKINode Title="TransportProvider.SetHeadQuarters method" Url="html/649ade7f-9584-9f33-2bba-4d08ade7fb9b.htm" />
+  <HelpKINode Title="TransportProvider.SetNumEmployees method" Url="html/c0bc2789-c822-2713-0efe-fb2c37ae9bb3.htm" />
+  <HelpKINode Title="TransportProvider.TransportProvider constructor" Url="html/593d3105-27cf-2ca1-13f1-598b409f3271.htm" />
+  <HelpKINode Title="valid field" Url="html/3a52dab1-2663-2147-bcfd-2b8a7ab7e517.htm" />
+</HelpKI>
