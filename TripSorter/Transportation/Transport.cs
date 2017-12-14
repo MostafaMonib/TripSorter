@@ -7,6 +7,7 @@ namespace JourneySorterAssembly.Transportation
     /// <summary>
     /// This abstract class represents a physical vehicle of a certain type of means of transport, plane, train, bus, etc.
     /// This class shows only some examples of attributes and methods as a test.
+    /// 
     /// Developed By : mostafa.monib@gmail.com mostafa monib
     /// </summary>
     public abstract class Transport
