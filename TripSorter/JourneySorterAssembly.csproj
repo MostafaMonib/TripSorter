@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB759F3E-457A-433C-AE8A-72E3EE2BEFD3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JourneySorterAssembly</RootNamespace>
+    <AssemblyName>JourneySorterAssembly</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoardingCard\AirplaneBoardingJourneyCard.cs" />
+    <Compile Include="BoardingCard\AirplaneBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\BoardingJourneyCard.cs" />
+    <Compile Include="BoardingCard\IBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\BoardingJourneyCardOwner.cs" />
+    <Compile Include="BoardingCard\BusBoardingCard.cs" />
+    <Compile Include="BoardingCard\BusBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\TechniqueNoStartNoEnd.cs" />
+    <Compile Include="BoardingCard\TrainBoardingJourneyCard.cs" />
+    <Compile Include="BoardingCard\TrainBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\Journey.cs" />
+    <Compile Include="BoardingCard\IJourneySorterTechnique.cs" />
+    <Compile Include="Transportation\AirplaneProvider.cs" />
+    <Compile Include="Transportation\Airplane.cs" />
+    <Compile Include="Transportation\AirbusMaker.cs" />
+    <Compile Include="Transportation\Bus.cs" />
+    <Compile Include="Transportation\BusProvider.cs" />
+    <Compile Include="Transportation\Maker.cs" />
+    <Compile Include="Transportation\Train.cs" />
+    <Compile Include="Transportation\TrainProvider.cs" />
+    <Compile Include="Transportation\Transport.cs" />
+    <Compile Include="Transportation\TransportProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Locator\Location.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
