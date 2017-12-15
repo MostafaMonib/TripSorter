@@ -18,6 +18,8 @@ Soultion with 4 projects:
 * Chrome App/Extention
 * Any app can call the API
 
+## Documentation
+Please read [Help.zip](https://github.com/MostafaMonib/TripSorter/blob/master/Help/Help/Help.zip)
 
 
 ### Live web-API Demo
@@ -48,7 +50,10 @@ Soultion with 4 projects:
 4- Run from Debug>>Start Debugging F5 or Start Without Debugging Ctrl+F5
 ```
 
-### Class Diagram & Desgin Pattern
+### TripSorter Architecture
+![Tripsorter Architecture](tripsorter-architecture.JPG)
+
+### Class Diagram
 
 1- Bourding Journey Card
 ![Bourding Journey Card](bourding-journey-card.png)
