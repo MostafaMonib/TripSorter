@@ -51,8 +51,8 @@ Please read [Help.zip](https://github.com/MostafaMonib/TripSorter/blob/master/He
 ```
 
 ### TripSorter Architecture
-![Tripsorter Architecture](tripsorter-architecture.JPG)
 
+![Trip Sorter Archi](TripSorter-Archi.png)
 ### Class Diagram
 
 1- Bourding Journey Card
