@@ -53,6 +53,7 @@ Please read [Help.zip](https://github.com/MostafaMonib/TripSorter/blob/master/He
 ### TripSorter Architecture
 
 ![Trip Sorter Archi](TripSorter-Archi.png)
+
 ### Class Diagram
 
 1- Bourding Journey Card
@@ -78,6 +79,7 @@ Please read [Help.zip](https://github.com/MostafaMonib/TripSorter/blob/master/He
 
 8- Full diagram
 ![Full Diagram](full-diagram.png)
+<br />
 you can see also [ClassDiagramTripSorterAssembly.cd](https://github.com/MostafaMonib/TripSorter/blob/master/TripSorter/ClassDiagramTripSorterAssembly.cd) file with good quailty
 
 
