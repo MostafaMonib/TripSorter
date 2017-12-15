@@ -37,7 +37,7 @@ Please read [Help.zip](https://github.com/MostafaMonib/TripSorter/blob/master/He
 
 ```csharp
 1- Dawnload Git-repository files
-2- open 'Executable File' zip folder
+2- Extract and open 'Executable File' zip folder
 3- Run TripSorterTest.exe console application
 ```
 
@@ -88,5 +88,5 @@ you can see also [ClassDiagramTripSorterAssembly.cd](https://github.com/MostafaM
 * For Any question feel free to contact me @ mostafa.monib@gmail.com
 
 
-Regards, 
+### Regards, 
 Developer By: Mostafa Monib
