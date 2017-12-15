@@ -34,7 +34,7 @@ namespace TripSorterAPI.Controllers
 
             List<BoardingJourneyCard> unorderedBCards = new List<BoardingJourneyCard>();
 
-            #region 4 boarding passes Journey Cards Data
+            #region boarding passes Journey Cards Data
 
             for (int i = 0; i < tripCards.Count; i++)
             {
