@@ -54,7 +54,7 @@ Please read [Help.zip](https://github.com/MostafaMonib/TripSorter/blob/master/He
 
 ![Trip Sorter Archi](TripSorter-Archi.png)
 
-### Class Diagram
+### Business-Logic Class Diagram
 
 1- Bourding Journey Card
 ![Bourding Journey Card](bourding-journey-card.png)
