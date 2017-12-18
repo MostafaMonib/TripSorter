@@ -1,4 +1,8 @@
 ﻿using JourneySorterAssembly.JourneyHelper;
+using JourneySorterAssembly.JourneyHelper.AirplaneCard;
+using JourneySorterAssembly.JourneyHelper.BusCard;
+using JourneySorterAssembly.JourneyHelper.PureJourneyTechnique;
+using JourneySorterAssembly.JourneyHelper.TrainCard;
 using JourneySorterAssembly.Locator;
 using JourneySorterAssembly.Transportation;
 using System;
@@ -22,9 +26,9 @@ namespace TripSorterTest
 
             // Manufacture 4 boarding passes using the Factory pattern to create different factories
             // according to the type of boarding card we want to create
-            IBoardingJourneyCardExtension airplaneBoardingJourneyCardFactory = new AirplaneBoardingJourneyCardExtension();
-            IBoardingJourneyCardExtension trainBoardingJourneyCardFactory = new TrainBoardingJourneyCardExtension();
-            IBoardingJourneyCardExtension busBoardingJourneyCardFactory = new BusBoardingJourneyCardExtension();
+            IBoardingJourneyCard airplaneBoardingJourneyCardFactory = new AirplaneBoardingJourneyCardExtension();
+            IBoardingJourneyCard trainBoardingJourneyCardFactory = new TrainBoardingJourneyCardExtension();
+            IBoardingJourneyCard busBoardingJourneyCardFactory = new BusBoardingJourneyCardExtension();
 
             List<BoardingJourneyCard> unorderedBoardingJourneyCards = new List<BoardingJourneyCard>()
             {

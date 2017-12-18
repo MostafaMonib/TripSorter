@@ -1,7 +1,7 @@
 using System;
 using System.Text;
 
-namespace JourneySorterAssembly.JourneyHelper
+namespace JourneySorterAssembly.JourneyHelper.BusCard
 {
 
     /// <summary>

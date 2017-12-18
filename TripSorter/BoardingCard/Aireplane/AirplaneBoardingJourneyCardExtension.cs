@@ -4,24 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JourneySorterAssembly.JourneyHelper
+namespace JourneySorterAssembly.JourneyHelper.AirplaneCard
 {
 
     /// <summary>
     /// 
     /// </summary>
-    /// <seealso cref="JourneySorterAssembly.JourneyHelper.IBoardingJourneyCardExtension" />
-    public class BusBoardingJourneyCardExtension : IBoardingJourneyCardExtension
+    /// <seealso cref="JourneySorterAssembly.JourneyHelper.IBoardingJourneyCard" />
+    public class AirplaneBoardingJourneyCardExtension : IBoardingJourneyCard
     {
 
 
         /// <summary>
         /// Creates the boarding journey card.
         /// </summary>
-        /// <returns>BusBoardingJourneyCard</returns>
+        /// <returns>AirplaneBoardingJourneyCard</returns>
         public BoardingJourneyCard CreateBoardingJourneyCard()
         {
-            return new BusBoardingJourneyCard();
+            return new AirplaneBoardingJourneyCard();
         }
 
     }

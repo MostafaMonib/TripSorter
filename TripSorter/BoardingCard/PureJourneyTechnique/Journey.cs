@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JourneySorterAssembly.JourneyHelper
+namespace JourneySorterAssembly.JourneyHelper.PureJourneyTechnique
 {
     //Developed By : mostafa.monib@gmail.com mostafa monib
     /// <summary>

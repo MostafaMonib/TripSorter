@@ -48,18 +48,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BoardingCard\AirplaneBoardingJourneyCard.cs" />
-    <Compile Include="BoardingCard\AirplaneBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\Aireplane\AirplaneBoardingJourneyCard.cs" />
+    <Compile Include="BoardingCard\Aireplane\AirplaneBoardingJourneyCardExtension.cs" />
     <Compile Include="BoardingCard\BoardingJourneyCard.cs" />
-    <Compile Include="BoardingCard\IBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\IBoardingJourneyCard.cs" />
     <Compile Include="BoardingCard\BoardingJourneyCardOwner.cs" />
-    <Compile Include="BoardingCard\BusBoardingCard.cs" />
-    <Compile Include="BoardingCard\BusBoardingJourneyCardExtension.cs" />
-    <Compile Include="BoardingCard\TechniqueNoStartNoEnd.cs" />
-    <Compile Include="BoardingCard\TrainBoardingJourneyCard.cs" />
-    <Compile Include="BoardingCard\TrainBoardingJourneyCardExtension.cs" />
-    <Compile Include="BoardingCard\Journey.cs" />
-    <Compile Include="BoardingCard\IJourneySorterTechnique.cs" />
+    <Compile Include="BoardingCard\Bus\BusBoardingJourneyCard.cs" />
+    <Compile Include="BoardingCard\Bus\BusBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\PureJourneyTechnique\TechniqueNoStartNoEnd.cs" />
+    <Compile Include="BoardingCard\Train\TrainBoardingJourneyCard.cs" />
+    <Compile Include="BoardingCard\Train\TrainBoardingJourneyCardExtension.cs" />
+    <Compile Include="BoardingCard\PureJourneyTechnique\Journey.cs" />
+    <Compile Include="BoardingCard\PureJourneyTechnique\IJourneySorterTechnique.cs" />
     <Compile Include="Transportation\AirplaneProvider.cs" />
     <Compile Include="Transportation\Airplane.cs" />
     <Compile Include="Transportation\AirbusMaker.cs" />

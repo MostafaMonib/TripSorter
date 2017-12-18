@@ -2,7 +2,7 @@ using JourneySorterAssembly.Transportation;
 using System;
 using System.Text;
 
-namespace JourneySorterAssembly.JourneyHelper
+namespace JourneySorterAssembly.JourneyHelper.TrainCard
 {
 
     /// <summary>

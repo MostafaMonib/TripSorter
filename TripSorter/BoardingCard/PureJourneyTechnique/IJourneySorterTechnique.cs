@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace JourneySorterAssembly.JourneyHelper
+namespace JourneySorterAssembly.JourneyHelper.PureJourneyTechnique
 {
 
     /// <summary>

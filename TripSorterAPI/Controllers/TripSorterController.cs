@@ -1,4 +1,8 @@
 ﻿using JourneySorterAssembly.JourneyHelper;
+using JourneySorterAssembly.JourneyHelper.AirplaneCard;
+using JourneySorterAssembly.JourneyHelper.BusCard;
+using JourneySorterAssembly.JourneyHelper.PureJourneyTechnique;
+using JourneySorterAssembly.JourneyHelper.TrainCard;
 using JourneySorterAssembly.Transportation;
 using Microsoft.Azure.Mobile.Server.Config;
 using System;
@@ -28,9 +32,9 @@ namespace TripSorterAPI.Controllers
         {
             string journeyInfo = string.Empty;
 
-            IBoardingJourneyCardExtension airplaneBoardingJourneyCardFactory = new AirplaneBoardingJourneyCardExtension();
-            IBoardingJourneyCardExtension trainBoardingJourneyCardFactory = new TrainBoardingJourneyCardExtension();
-            IBoardingJourneyCardExtension busBoardingJourneyCardFactory = new BusBoardingJourneyCardExtension();
+            IBoardingJourneyCard airplaneBoardingJourneyCardFactory = new AirplaneBoardingJourneyCardExtension();
+            IBoardingJourneyCard trainBoardingJourneyCardFactory = new TrainBoardingJourneyCardExtension();
+            IBoardingJourneyCard busBoardingJourneyCardFactory = new BusBoardingJourneyCardExtension();
 
             List<BoardingJourneyCard> unorderedBCards = new List<BoardingJourneyCard>();
 

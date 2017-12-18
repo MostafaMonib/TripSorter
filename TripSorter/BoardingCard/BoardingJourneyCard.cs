@@ -220,7 +220,7 @@ namespace JourneySorterAssembly.JourneyHelper
         /// Sets the transport company.
         /// Allows to modify the transport company issuing the card
         /// </summary>
-        /// <param name="transportCompany">The transport company.</param>
+        /// <param name="transportProvider">The transport company.</param>
         /// <returns></returns>
         public BoardingJourneyCard SetTransportCompany(TransportProvider transportProvider)
         {
